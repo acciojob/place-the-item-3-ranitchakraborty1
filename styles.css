@@ -3,10 +3,7 @@
 .holder {
   display: flex;
   flex-wrap: wrap;
-	 justify-content: space-evenly;
+  justify-content: space-evenly;
 }
 
-.item {
-  flex: 1 0 auto;
-  margin: 0 5px; /* Adjust margin as needed */
-}
+
